@@ -1,5 +1,5 @@
 
-def caesar(message, key) -> str:
+def encrypt(message, key) -> str:
     result = ""
     for char in message:
 #65-90
